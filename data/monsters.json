@@ -1,0 +1,112 @@
+[
+  {
+    "id": "Ahexa",
+    "name": "Ahexa",
+    "image": "imgs/Monsters/Ahexa_Portrait.png"
+  },
+  {
+    "id": "Boss_Harrow",
+    "name": "Boss Harrow",
+    "image": "imgs/Monsters/BossHarrow_Portrait.png"
+  },
+  {
+    "id": "Bloodreef_Raider",
+    "name": "Bloodreef Raider",
+    "image": "imgs/Monsters/BloodreefRaider_Portrait.png"
+  },
+  {
+    "id": "Chilly_Charles",
+    "name": "Chilly Charles",
+    "image": "imgs/Monsters/Chilly_Charles_Portrait.png"
+  },
+  {
+    "id": "Cosmic_Ron",
+    "name": "Cosmic Ron",
+    "image": "imgs/Monsters/CosmicRoc_Portrait.png"
+  },
+  {
+    "id": "Dr_Vortex",
+    "name": "Dr. Vortex",
+    "image": "imgs/Monsters/MadScientist_Portrait.png"
+  },
+  {
+    "id": "Dragon",
+    "name": "Dragon",
+    "image": "imgs/Monsters/Dragon_Portrait.png"
+  },
+  {
+    "id": "Elite_Duelist",
+    "name": "Elite Duelist",
+    "image": "imgs/Monsters/EliteDuelist_Portrait.png"
+  },
+  {
+    "id": "Foundation_Weeper",
+    "name": "Foundation Weeper",
+    "image": "imgs/Monsters/Foundation_Weeper_Portrait.png"
+  },
+  {
+    "id": "Gorgon_Noble",
+    "name": "Gorgon Noble",
+    "image": "imgs/Monsters/GorgonNoble_Portrait.png"
+  },
+  {
+    "id": "Hooverbike_Hooligan",
+    "name": "Hooverbike Hooligan",
+    "image": "imgs/Monsters/Scouttrooper_Portrait.png"
+  },
+  {
+    "id": "Harkuvian_Rocket_Trooper",
+    "name": "Harkuvian Rocket Trooper",
+    "image": "imgs/Monsters/Harkuvian_Rocket_Trooper_Portrait.png"
+  },
+  {
+    "id": "Hulking_Experiment",
+    "name": "Hulking Experiment",
+    "image": "imgs/Monsters/HulkingExperiment_Portrait.png"
+  },
+  {
+    "id": "Infernal_Frigate",
+    "name": "Infernal Frigate",
+    "image": "imgs/Monsters/InfernalFrigate_Portrait.png"
+  },
+  {
+    "id": "Infernal_Envoy",
+    "name": "Infernal Envoy",
+    "image": "imgs/Monsters/InfernalEnvoy_Portrait.png"
+  },
+  {
+    "id": "Loan_Shark",
+    "name": "Loan Shark",
+    "image": "imgs/Monsters/Loan_Shark_Portrait.png"
+  },
+  {
+    "id": "Lord_of_the_Wastes",
+    "name": "Lord of the Wastes",
+    "image": "imgs/Monsters/LordOfTheWastes_Portrait.png"
+  },
+  {
+    "id": "Mod_Squad",
+    "name": "Mod Squad",
+    "image": "imgs/Monsters/Mod_Squad_Portrait.png"
+  },
+  {
+    "id": "Oasis_Guardian",
+    "name": "Oasis Guardian",
+    "image": "imgs/Monsters/OasisGuardian_Portrait.png"
+  },
+  {
+    "id": "Outlands_Dervish",
+    "name": "Outlands Dervish",
+    "image": "imgs/Monsters/OutlandsDervish_Portrait.png"
+  },
+  {
+    "id": "Radiant_Corsair",
+    "name": "Radiant Corsair",
+    "image": "imgs/Monsters/RadiantCorsair_Portrait.png"
+  },
+  {
+    "id": "Death_Knight_Reaper",
+    "name": "Detah Knight Reaper",
+    "image": "imgs/Monsters/Reaper_Portrait.png"
+  }
+]
