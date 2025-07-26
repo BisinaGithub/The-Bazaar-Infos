@@ -2,167 +2,531 @@
   {
     "id": "Ahexa",
     "name": "Ahexa",
-    "image": "imgs/Monsters/Ahexa.png"
+    "health": 900,
+    "image": "imgs/Monsters/Ahexa.avif"
+  },
+  {
+    "id": "Annex_Trooper",
+    "name": "Annex Trooper",
+    "health": 1925,
+    "image": "imgs/Monsters/AnnexTrooper.avif"
+  },
+  {
+    "id": "Awakened_District",
+    "name": "Awakened District",
+    "health": 4700,
+    "image": "imgs/Monsters/AwakenedDistrict.avif"
+  },
+  {
+    "id": "Banannibal",
+    "name": "Banannibal",
+    "health": 100,
+    "image": "imgs/Monsters/Banannibal.avif"
+  },
+  {
+    "id": "Boarrior",
+    "name": "Boarrior",
+    "health": 400,
+    "image": "imgs/Monsters/Boarrior.avif"
   },
   {
     "id": "Boilerroom_Brawler",
     "name": "Boilerroom Brawler",
-    "image": "imgs/Monsters/BoilerroomBrawler.png"
+    "health": 450,
+    "image": "imgs/Monsters/BoilerroomBrawler.avif"
   },
   {
     "id": "Boss_Harrow",
     "name": "Boss Harrow",
-    "image": "imgs/Monsters/BossHarrow.png"
+    "health": 2325,
+    "image": "imgs/Monsters/BossHarrow.avif"
+  },
+  {
+    "id": "Bouncertron",
+    "name": "Bouncertron",
+    "health": 1925,
+    "image": "imgs/Monsters/Bouncertron.avif"
+  },
+  {
+    "id": "Bloodreef_Captain",
+    "name": "Bloodreef Captain",
+    "health": 1925,
+    "image": "imgs/Monsters/BloodreefCaptain.avif"
   },
   {
     "id": "Bloodreef_Raider",
     "name": "Bloodreef Raider",
-    "image": "imgs/Monsters/BloodreefRaider.png"
+    "health": 650,
+    "image": "imgs/Monsters/BloodreefRaider.avif"
+  },
+  {
+    "id": "Burninator_Bot",
+    "name": "Burninator Bot",
+    "health": 2325,
+    "image": "imgs/Monsters/BurninatorBot.avif"
+  },
+  {
+    "id": "Car_Conductor",
+    "name": "Car Conductor",
+    "health": 900,
+    "image": "imgs/Monsters/CarConductor.avif"
   },
   {
     "id": "Chilly_Charles",
     "name": "Chilly Charles",
-    "image": "imgs/Monsters/Chilly_Charles.png"
+    "health": 1925,
+    "image": "imgs/Monsters/ChillyCharles.avif"
   },
   {
-    "id": "Cosmic_Ron",
-    "name": "Cosmic Ron",
-    "image": "imgs/Monsters/CosmicRoc.png"
+    "id": "Coconut_Crab",
+    "name": "Coconut Crab",
+
+    "health": 200,
+    "image": "imgs/Monsters/CoconutCrab.avif"
   },
   {
-    "id": "Death_Knight_Reaper",
-    "name": "Detah Knight Reaper",
-    "image": "imgs/Monsters/Reaper.png"
+    "id": "Cosmic_Roc",
+    "name": "Cosmic Roc",
+
+    "health": 1550,
+    "image": "imgs/Monsters/CosmicRoc.avif"
   },
   {
-    "id": "Dr._Vortex",
-    "name": "Dr. Vortex",
-    "image": "imgs/Monsters/MadScientist.png"
+    "id": "Covetous_Thief",
+    "name": "Covetous Thief",
+
+    "health": 400,
+    "image": "imgs/Monsters/CovetousThief.avif"
+  },
+  {
+    "id": "Dabbling_Apprentice",
+    "name": "Dabbling Apprentice",
+    "health": 300,
+    "image": "imgs/Monsters/DabblingApprentice.avif"
+  },
+  {
+    "id": "Dire_Inglet",
+    "name": "Dire Inglet",
+
+    "health": 900,
+    "image": "imgs/Monsters/DireInglet.avif"
+  },
+  {
+    "id": "Dire_Mosquito",
+    "name": "Dire Mosquito",
+    "health": 900,
+    "image": "imgs/Monsters/DireMosquito.avif"
   },
   {
     "id": "Dragon",
     "name": "Dragon",
-    "image": "imgs/Monsters/Dragon.png"
+    "health": 3675,
+    "image": "imgs/Monsters/Dragon.avif"
+  },
+  {
+    "id": "Dr._Vortex",
+    "name": "Dr. Vortex",
+    "health": 2325,
+    "image": "imgs/Monsters/Dr.Vortex.avif"
+  },
+  {
+    "id": "Eccentric_Etherwright",
+    "name": "Eccentric Etherwright",
+
+    "health": 650,
+    "image": "imgs/Monsters/EccentricEtherwright.avif"
+  },
+  {
+    "id": "Eight_Arm_Davvy",
+    "name": "Eight Arm Davvy",
+    "health": 8888,
+    "image": "imgs/Monsters/EightArmDavvy.avif"
   },
   {
     "id": "Elite_Duelist",
     "name": "Elite Duelist",
-    "image": "imgs/Monsters/EliteDuelist.png"
+    "health": 2325,
+    "image": "imgs/Monsters/EliteDuelist.avif"
+  },
+  {
+    "id": "Fanged_Inglet",
+    "name": "Fanged Inglet",
+    "health": 100,
+    "image": "imgs/Monsters/FangedInglet.avif"
+  },
+  {
+    "id": "Ferros_Khan",
+    "name": "Ferros Khan",
+
+    "health": 2750,
+    "image": "imgs/Monsters/FerrosKhan.avif"
+  },
+  {
+    "id": "Flame_Juggler",
+    "name": "Flame Juggler",
+
+    "health": 1200,
+    "image": "imgs/Monsters/FlameJuggler.avif"
+  },
+  {
+    "id": "Foreman",
+    "name": "Foreman",
+    "health": 1200,
+    "image": "imgs/Monsters/Foreman.avif"
+  },
+  {
+    "id": "Foundation_Revenant",
+    "name": "Foundation Revenant",
+    "health": 3200,
+    "image": "imgs/Monsters/FoundationRevenant.avif"
   },
   {
     "id": "Foundation_Weeper",
     "name": "Foundation Weeper",
-    "image": "imgs/Monsters/Foundation_Weeper.png"
+    "health": 1550,
+    "image": "imgs/Monsters/FoundationWeeper.avif"
+  },
+  {
+    "id": "Frost_Street_Challenger",
+    "name": "Frost Street Challenger",
+    "health": 450,
+    "image": "imgs/Monsters/FrostStreetChallenger.avif"
+  },
+  {
+    "id": "Frost_Street_Champion",
+    "name": "Frost Street Champion",
+    "health": 3675,
+    "image": "imgs/Monsters/FrostStreetChampion.avif"
+  },
+  {
+    "id": "Giant_Mosquito",
+    "name": "Giant Mosquito",
+
+    "health": 200,
+    "image": "imgs/Monsters/GiantMosquito.avif"
   },
   {
     "id": "Ghost_Pepper",
     "name": "Ghost Pepper",
-    "image": "imgs/Monsters/GhostPepper.png"
+
+    "health": 2200,
+    "image": "imgs/Monsters/GhostPepper.avif"
   },
   {
     "id": "Gorgon_Noble",
     "name": "Gorgon Noble",
-    "image": "imgs/Monsters/GorgonNoble.png"
-  },
-  {
-    "id": "Hooverbike_Hooligan",
-    "name": "Hooverbike Hooligan",
-    "image": "imgs/Monsters/Scouttrooper.png"
+    "health": 1200,
+    "image": "imgs/Monsters/GorgonNoble.avif"
   },
   {
     "id": "Harkuvian_Rocket_Trooper",
     "name": "Harkuvian Rocket Trooper",
-    "image": "imgs/Monsters/Harkuvian_Rocket_Trooper.png"
+
+    "health": 900,
+    "image": "imgs/Monsters/HarkuvianRocketTrooper.avif"
+  },
+  {
+    "id": "Haunted_Kimono",
+    "name": "Haunted Kimono",
+    "health": 100,
+    "image": "imgs/Monsters/HauntedKimono.avif"
+  },
+  {
+    "id": "Hellbilly",
+    "name": "Hellbilly",
+    "health": 900,
+    "image": "imgs/Monsters/Hellbilly.avif"
+  },
+  {
+    "id": "Hoverbike_Hooligan",
+    "name": "Hoverbike Hooligan",
+    "health": 650,
+    "image": "imgs/Monsters/HoverbikeHooligan.avif"
   },
   {
     "id": "Hulking_Experiment",
     "name": "Hulking Experiment",
-    "image": "imgs/Monsters/HulkingExperiment.png"
+
+    "health": 2325,
+    "image": "imgs/Monsters/HulkingExperiment.avif"
   },
   {
-    "id": "Infernal_Frigate",
-    "name": "Infernal Frigate",
-    "image": "imgs/Monsters/InfernalFrigate.png"
+    "id": "Infernal",
+    "name": "Infernal",
+
+    "health": 1925,
+    "image": "imgs/Monsters/Infernal.avif"
   },
   {
     "id": "Infernal_Envoy",
     "name": "Infernal Envoy",
-    "image": "imgs/Monsters/InfernalEnvoy.png"
+
+    "health": 900,
+    "image": "imgs/Monsters/InfernalEnvoy.avif"
+  },
+  {
+    "id": "Infernal_Frigate",
+    "name": "Infernal Frigate",
+    "health": 1925,
+    "image": "imgs/Monsters/InfernalFrigate.avif"
+  },
+  {
+    "id": "Joyful_Jack",
+    "name": "Joyful Jack",
+    "health": 1550,
+    "image": "imgs/Monsters/JoyfulJack.avif"
+  },
+  {
+    "id": "Kyver_Commander",
+    "name": "Kyver Commander",
+    "health": 900,
+    "image": "imgs/Monsters/KyverCommander.avif"
+  },
+  {
+    "id": "Kyver_Drone",
+    "name": "Kyver Drone",
+    "health": 100,
+    "image": "imgs/Monsters/KyverDrone.avif"
+  },
+  {
+    "id": "Lich",
+    "name": "Lich",
+    "health": 1900,
+    "image": "imgs/Monsters/Lich.avif"
   },
   {
     "id": "Loan_Shark",
     "name": "Loan Shark",
-    "image": "imgs/Monsters/Loan_Shark.png"
+    "health": 1550,
+    "image": "imgs/Monsters/LoanShark.avif"
+  },
+  {
+    "id": "Lord_Arken",
+    "name": "Lord Arken",
+    "health": 4700,
+    "image": "imgs/Monsters/LordArken.avif"
   },
   {
     "id": "Lord_of_the_Wastes",
     "name": "Lord of the Wastes",
+    "health": 2750,
     "image": "imgs/Monsters/LordOfTheWastes.avif"
+  },
+  {
+    "id": "Morguloth",
+    "name": "Morguloth",
+    "health": 4700,
+    "image": "imgs/Monsters/Morguloth.avif"
   },
   {
     "id": "Mod_Squad",
     "name": "Mod Squad",
-    "image": "imgs/Monsters/Mod_Squad.png"
+    "health": 1200,
+    "image": "imgs/Monsters/ModSquad.avif"
   },
   {
     "id": "Oasis_Guardian",
     "name": "Oasis Guardian",
-    "image": "imgs/Monsters/OasisGuardian.png"
+    "health": 2325,
+    "image": "imgs/Monsters/OasisGuardian.avif"
   },
   {
     "id": "Outlands_Dervish",
     "name": "Outlands Dervish",
-    "image": "imgs/Monsters/OutlandsDervish.png"
+    "health": 450,
+    "image": "imgs/Monsters/OutlandsDervish.avif"
   },
   {
     "id": "Preening_Duelist",
     "name": "Preening Duelist",
-    "image": "imgs/Monsters/Preening_Duelist.png"
+    "health": 650,
+    "image": "imgs/Monsters/PreeningDuelist.avif"
   },
   {
     "id": "Prince_Marianas",
     "name": "Prince Marianas",
-    "image": "imgs/Monsters/PrinceMarianas.png"
+    "health": 900,
+    "image": "imgs/Monsters/PrinceMarianas.avif"
+  },
+  {
+    "id": "Property_Baron",
+    "name": "Property Baron",
+    "health": 3000,
+    "image": "imgs/Monsters/PropertyBaron.avif"
+  },
+  {
+    "id": "Pyro",
+    "name": "Pyro",
+    "health": 100,
+    "image": "imgs/Monsters/Pyro.avif"
   },
   {
     "id": "Radiant_Corsair",
     "name": "Radiant Corsair",
-    "image": "imgs/Monsters/RadiantCorsair.png"
+
+    "health": 3200,
+    "image": "imgs/Monsters/RadiantCorsair.avif"
+  },
+  {
+    "id": "Retiree",
+    "name": "Retiree",
+    "health": 650,
+    "image": "imgs/Monsters/Retiree.avif"
+  },
+  {
+    "id": "Roaming_Isle",
+    "name": "Roaming Isle",
+    "health": 650,
+    "image": "imgs/Monsters/RoamingIsle.avif"
+  },
+  {
+    "id": "Rogue_Scrapper",
+    "name": "Rogue Scrapper",
+
+    "health": 350,
+    "image": "imgs/Monsters/RogueScrapper.avif"
   },
   {
     "id": "Sabretooth",
     "name": "Sabretooth",
-    "image": "imgs/Monsters/Sabretooth.png"
-  },
-  {
-    "id":"Sergeant_Suds",
-    "name": "Sergeant Suds",
-    "image": "imgs/Monsters/Sergeant_Suds.png"
+
+    "health": 650,
+    "image": "imgs/Monsters/Sabretooth.avif"
   },
   {
     "id": "Scovyle",
     "name": "Scovyle",
-    "image": "imgs/Monsters/Scovyle.png"
+
+    "health": 1400,
+    "image": "imgs/Monsters/Scovyle.avif"
   },
   {
-    "id": "Trash_Golem",
-    "name": "Trash Golem",
-    "image": "imgs/Monsters/TrashGolem.png"
+    "id": "Sergeant_Suds",
+    "name": "Sergeant Suds",
+
+    "health": 1200,
+    "image": "imgs/Monsters/SergeantSuds.avif"
   },
   {
-    "id": "Trash_Titan",
-    "name": "Trash Titan",
-    "image": "imgs/Monsters/TrashTitan.png"
+    "id": "Street_Gamer",
+    "name": "Street Gamer",
+
+    "health": 450,
+    "image": "imgs/Monsters/StreetGamer.avif"
+  },
+  {
+    "id": "Tempest_Bravo",
+    "name": "Tempest Bravo",
+    "health": 300,
+    "image": "imgs/Monsters/TempestBravo.avif"
+  },
+  {
+    "id": "Thug",
+    "name": "Thug",
+
+    "health": 1550,
+    "image": "imgs/Monsters/Thug.avif"
+  },
+  {
+    "id": "Terrorform",
+    "name": "Terrorform",
+
+    "health": 2325,
+    "image": "imgs/Monsters/Terrorform.avif"
   },
   {
     "id": "Treasure_Turtle",
     "name": "Treasure Turtle",
-    "image": "imgs/Monsters/TreasureTurtle.png"
+
+    "health": 1700,
+    "image": "imgs/Monsters/TreasureTurtle.avif"
   },
   {
+    "id": "Trashtown_Mayor",
+    "name": "Trashtown Mayor",
+    "health": 1200,
+    "image": "imgs/Monsters/TrashtownMayor.avif"
+  },
+  {
+    "id": "Trash_Golem",
+    "name": "Trash Golem",
+
+    "health": 1200,
+    "image": "imgs/Monsters/TrashGolem.avif"
+  },
+  {
+    "id": "Trash_Titan",
+    "name": "Trash Titan",
+    "health": 2750,
+    "image": "imgs/Monsters/TrashTitan.avif"
+  },
+  {
+    "id": "Void_Colossus",
+    "name": "Void Colossus",
+    "health": 4000,
+    "image": "imgs/Monsters/VoidColossus.avif"
+  },
+  {
+    "id": "Void_Golem",
+    "name": "Void Golem",
+    "health": 4700,
+    "image": "imgs/Monsters/VoidGolem.avif"
+  },
+  {
+    "id": "Void_Knight",
+    "name": "Void Knight",
+    "health": 3675,
+    "image": "imgs/Monsters/VoidKnight.avif"
+  },
+  {
+    "id": "Volkas_Enforcer",
+    "name": "Volkas Enforcer",
+    "health": 3200,
+    "image": "imgs/Monsters/VolkasEnforcer.avif"
+  },
+  {
+    "id": "Ventriloquist",
+    "name": "Ventriloquist",
+
+    "health": 450,
+    "image": "imgs/Monsters/Ventriloquist.avif"
+  },
+  {
+    "id": "Viper",
+    "name": "Viper",
+
+    "health": 75,
+    "image": "imgs/Monsters/Viper.avif"
+  },
+  {
+    "id": "Viper_Tyrant",
+    "name": "Viper Tyrant",
+
+    "health": 1200,
+    "image": "imgs/Monsters/ViperTyrant.avif"
+  },
+  {
+    "id": "Wandering_Shoal",
+    "name": "Wandering Shoal",
+    "health": 2325,
+    "image": "imgs/Monsters/WanderingShoal.avif"
+  },
+  {
+    "id": "Weapons_Platform",
+    "name": "Weapons Platform",
+    "health": 2750,
+    "image": "imgs/Monsters/WeaponsPlatform.avif"
+  },
+  {
+    "id": "Yerdan",
+    "name": "Yerdan",
+    "health": 1925,
+    "image": "imgs/Monsters/Yerdan.avif"
+  },
+    {
     "id": "Zookeeper",
     "name": "Zookeeper",
-    "image": "imgs/Monsters/Zookeeper.png"
+    "health": 900,
+    "image": "imgs/Monsters/Zookeeper.avif"
   }
 ]
-

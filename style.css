@@ -1,10 +1,5 @@
-    html {
-        height: 100%;
-        background: linear-gradient(180deg, #1d1209 0%, #2a170c 100%);
-    }
-
-
     body {
+        background: linear-gradient(180deg, #1d1209 0%, #2a170c 100%);
         color: #fff;
         font-family: sans-serif;
         margin: 0;
